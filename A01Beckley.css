@@ -1,1 +1,9 @@
+body{background: #00ffff;}
 
+p{font-size: xx-small}
+
+h3{font: .74em "Trebuchet MS" Verdana;}
+
+#bigRedText{font-size:xx-large; color:#ff0000;}
+.greenText{color:#00ff00;}
+.blueText{color:#0000ff;}
