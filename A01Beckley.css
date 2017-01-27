@@ -7,3 +7,24 @@ h3{font: .74em "Trebuchet MS" Verdana;}
 #bigRedText{font-size:xx-large; color:#ff0000;}
 .greenText{color:#00ff00;}
 .blueText{color:#0000ff;}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    width: 200px;
+}
+li {
+    display: inline;
+}
+li a {
+	padding: 8px;
+    width: 60px;
+}
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.active {
+    background-color: #4CAF50;
+}
